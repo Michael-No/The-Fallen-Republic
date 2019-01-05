@@ -1,0 +1,25 @@
+state={
+	id=930
+	name="STATE_930"
+	history = {
+		owner = USA
+		add_core_of = USA
+		add_core_of = TEX
+		buildings = {
+		}
+		victory_points = {
+			10740 20 
+		}
+		victory_points = {
+			10894 1 
+		}
+		victory_points = {
+			1954 1 
+		}
+	}
+	provinces={
+		1954 4955 5038 10740 10894 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+}

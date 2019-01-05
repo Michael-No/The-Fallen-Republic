@@ -1,0 +1,15 @@
+state={
+	id=920
+	name="STATE_920"
+	history={
+		owner = USA
+		buildings = {
+		}
+		add_core_of = USA
+	}
+	provinces={
+		1972 10645 12552 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+}

@@ -1,0 +1,31 @@
+state={
+	id=928
+	name="STATE_928"
+	history={
+		owner = USA
+		buildings = {
+			7315 = {
+				naval_base = 6
+			}
+		}
+		add_core_of = USA
+		victory_points = {
+			7315 20 
+		}
+		victory_points = {
+			7386 3 
+		}
+		victory_points = {
+			4398 2 
+		}
+		victory_points = {
+			10157 1 
+		}
+
+	}
+	provinces={
+		4296 4398 7315 7386 10157 10242 10271 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+}

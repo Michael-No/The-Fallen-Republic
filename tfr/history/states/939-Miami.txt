@@ -1,0 +1,20 @@
+state={
+	id=939
+	name="STATE_939"
+	history={
+		owner = USA
+		buildings = {
+			1843 = { naval_base = 5 }
+			7388 = { naval_base = 3 }
+		}
+		add_core_of = USA
+		#add_core_of = FLR
+		victory_points = { 1843 20 }	#Miami
+
+	}
+	provinces={
+		1843 1913 7388 9834 10489 12752 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+}

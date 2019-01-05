@@ -1,0 +1,18 @@
+state={
+	id=941
+	name="STATE_941"
+	history={
+		owner = USA
+		buildings = {
+			10352 = { naval_base = 1 }
+		}
+		add_core_of = USA
+		#add_core_of = FLR
+		victory_points = { 10407 10 }	#Tallahassee
+	}
+	provinces={
+		10352 10380 10407 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+}
