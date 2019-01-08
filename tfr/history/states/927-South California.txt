@@ -1,0 +1,42 @@
+state={
+	id=927
+	name="STATE_927"
+	provinces={
+		823 1562 4727 6881 7517 7986 9814 9855 10483 11757 11795 11859 11876 12303 12374 13238 13239 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+	history = {
+		owner = USA
+		add_core_of = USA
+		add_core_of = CAL
+		victory_points = {
+			9814 40 
+		}
+		victory_points = {
+			1562 25 
+		}
+		victory_points = {
+			7517 1 
+		}
+		victory_points = {
+			11757 7 
+		}
+		victory_points = {
+			13238 2 
+		}
+		victory_points = {
+			13239 3 
+		}
+		buildings = {
+			9814 = {
+				naval_base = 5
+
+			}
+			1562 = {
+				naval_base = 10
+
+			}
+		}
+	}
+}

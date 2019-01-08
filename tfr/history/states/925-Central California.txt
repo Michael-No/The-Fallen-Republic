@@ -1,0 +1,25 @@
+state={
+	id=925
+	name="STATE_925"
+	provinces={
+		710 941 1432 1601 1651 4518 4657 6694 6699 6876 7667 9713 9911 10387 11763 
+	}
+	history = {
+		owner = USA
+		add_core_of = USA
+		add_core_of = CAL
+		buildings = {
+		}
+		victory_points = {
+			9713 20 
+		}
+		victory_points = {
+			4518 12 
+		}
+		victory_points = {
+			941 5 
+		}
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+}

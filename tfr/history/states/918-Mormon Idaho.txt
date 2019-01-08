@@ -1,0 +1,22 @@
+state={
+	id=918
+	name="STATE_918"
+	history={
+		owner = USA
+		buildings = {
+		}
+		add_core_of = USA
+		victory_points = {
+			9695 1 
+		}
+		victory_points = {
+			12535 1 
+		}
+
+	}
+	provinces={
+		1789 9695 12535 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+}
